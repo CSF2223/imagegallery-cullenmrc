@@ -20,6 +20,7 @@ Image Gallery is our first project "walkthrough".
 ## Main two resources (equivalent to a course textbook):
 
 [W3 Schools Online Web Tutorials](https://www.w3schools.com/)
+<a href = https://www.w3schools.com/ target="blank">W3 Schools Online Web Tutorials</a>
 
 [Mozilla Developer Network - MDN Web Docs](https://developer.mozilla.org/en-US/)
 
